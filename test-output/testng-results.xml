@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T14:45:56 IST" name="Default suite" finished-at="2023-03-15T14:46:42 IST" duration-ms="46023">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T14:45:56 IST" name="Default test" finished-at="2023-03-15T14:46:42 IST" duration-ms="46023">
+      <class name="ecommerce.testcases.Test05_MobileChromeBrowser">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:ecommerce.testcases.Test05_MobileChromeBrowser@644baf4a]" started-at="2023-03-15T14:45:56 IST" name="Setup" finished-at="2023-03-15T14:46:31 IST" duration-ms="35305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="test()[pri:0, instance:ecommerce.testcases.Test05_MobileChromeBrowser@644baf4a]" started-at="2023-03-15T14:46:31 IST" name="test" finished-at="2023-03-15T14:46:31 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="chromebrowserTest05()[pri:0, instance:ecommerce.testcases.Test05_MobileChromeBrowser@644baf4a]" started-at="2023-03-15T14:46:31 IST" name="chromebrowserTest05" finished-at="2023-03-15T14:46:42 IST" duration-ms="10653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromebrowserTest05 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ecommerce.testcases.Test05_MobileChromeBrowser@644baf4a]" started-at="2023-03-15T14:46:42 IST" name="teardown" finished-at="2023-03-15T14:46:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ecommerce.testcases.Test05_MobileChromeBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
